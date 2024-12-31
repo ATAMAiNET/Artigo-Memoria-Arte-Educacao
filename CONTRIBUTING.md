@@ -22,7 +22,7 @@ git checkout -b feature/adicionar-referencias
 ```
 
 ### 4. **Realize as alterações**
-Use seu editor de código favorito para realizar as melhorias ou adções. Salve as alterações localmente.
+Use seu editor de código favorito para realizar as melhorias ou adições. Salve as alterações localmente.
 
 ### 5. **Adicione e commite suas alterações**
 Adicione os arquivos modificados ao controle de versão e faça um commit com uma mensagem descritiva:
