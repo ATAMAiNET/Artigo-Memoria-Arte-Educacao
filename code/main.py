@@ -15,7 +15,7 @@ NUM_LINHAS = 6
 
 # Caminho para a pasta contendo as imagens
 caminho_pasta = "C:/Imagens/NFT"
-pasta_testes = os.path.join(caminho_pasta, "Testes")
+pasta_testes = os.path.join("code", "testes")
 
 # Criar a pasta "Testes" se não existir
 if not os.path.exists(pasta_testes):
